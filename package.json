@@ -1,0 +1,13 @@
+{
+  "name": "peek-og-image",
+  "version": "1.0.0",
+  "dependencies": {
+    "@vercel/og": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@types/react": "latest",
+    "typescript": "latest"
+  }
+}
