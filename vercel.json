@@ -1,7 +1,6 @@
 {
-  "buildCommand": "npm install",
   "functions": {
-    "api/*.tsx": {
+    "api/*.js": {
       "runtime": "@vercel/edge"
     }
   }
